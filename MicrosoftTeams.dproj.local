@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2025.06.05 18:00:10.018,=C:\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025.06.05 18:00:20.108,=C:\Delphi\Unit2.pas</Transaction>
+    <Transaction>2025.06.05 18:01:01.295,C:\Delphi\MicrosoftTeams\TeamsGraphDemo.pas=C:\Delphi\Unit2.pas</Transaction>
+    <Transaction>2025.06.05 18:01:08.203,C:\Delphi\MicrosoftTeams\nn.pas=C:\Delphi\Unit1.pas</Transaction>
+    <Transaction>2025.06.05 18:01:08.203,C:\Delphi\MicrosoftTeams\nn.dfm=C:\Delphi\Unit1.dfm</Transaction>
+    <Transaction>2025.06.05 18:01:27.766,C:\Delphi\MicrosoftTeams\MicrosoftTeams.dproj=C:\Delphi\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
